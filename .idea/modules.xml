@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/anvil.iml" filepath="$PROJECT_DIR$/.idea/modules/anvil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/anvil_setup/anvil.anvil_setup.iml" filepath="$PROJECT_DIR$/.idea/modules/anvil_setup/anvil.anvil_setup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/anvil.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/anvil.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dagger_setup/anvil.dagger_setup.iml" filepath="$PROJECT_DIR$/.idea/modules/dagger_setup/anvil.dagger_setup.iml" />
+    </modules>
+  </component>
+</project>

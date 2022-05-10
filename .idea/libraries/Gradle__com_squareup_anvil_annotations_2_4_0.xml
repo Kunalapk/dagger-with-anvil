@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.squareup.anvil:annotations:2.4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.anvil/annotations/2.4.0/245ec2b6131624cb20238228d7f3f346e8b424b2/annotations-2.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.anvil/annotations/2.4.0/578f5542e3b9c4b79f6302f39f84428bea3d3731/annotations-2.4.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.anvil/annotations/2.4.0/aa0076750d98a0471d5397370fbc8b4d37fed317/annotations-2.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
